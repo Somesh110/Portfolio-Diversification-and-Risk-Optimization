@@ -1,6 +1,26 @@
 
 # Portfolio Diversification & Risk Optimization
 
+## Live Interactive Dashboard
+
+Try the Portfolio Diversification & Risk Optimization
+dashboard online:
+
+[Open Live Dashboard](https://portfolio-diversification-and-risk-optimization-qgdttmifrnzdrb.streamlit.app/)
+
+### Dashboard Features
+
+- Historical ETF performance analysis
+- Portfolio volatility and correlation analysis
+- Minimum-variance portfolio optimization
+- Constrained portfolio optimization
+- Out-of-sample risk and return comparisons
+- Interactive financial charts
+
+Upload a compatible CSV containing Date, SPY,
+GLD and BND columns to explore the analysis.
+
+
 ### Financial Data Analytics | Quantitative Finance | Python
 
 ## Project Overview
